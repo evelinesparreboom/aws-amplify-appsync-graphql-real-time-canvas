@@ -1,0 +1,15 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-react-draw-dev-153549-authRole",
+      "UnauthRoleArn": "arn:aws:iam::347523640872:role/amplify-react-draw-dev-153549-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::347523640872:role/amplify-react-draw-dev-153549-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-react-draw-dev-153549-deployment",
+      "UnauthRoleName": "amplify-react-draw-dev-153549-unauthRole",
+      "StackName": "amplify-react-draw-dev-153549",
+      "StackId": "arn:aws:cloudformation:us-east-1:347523640872:stack/amplify-react-draw-dev-153549/77bcf540-599a-11eb-8da0-12312be5d5ed",
+      "AmplifyAppId": "diz6sw0britf1"
+    }
+  }
+}
